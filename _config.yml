@@ -22,7 +22,7 @@ title: How to Crochet the Front/Back Post Double Stitch
 email: brownmb4@appstate.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This site covers how to create both front and back post double crochet stitches.  
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "back-front-post-double-crochet-stitch" # the subpath of your site, e.g. /blog
 url: "https://maeganbrown.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: maeganbrown
