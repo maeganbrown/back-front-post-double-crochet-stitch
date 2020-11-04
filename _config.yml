@@ -23,7 +23,7 @@ email: brownmb4@appstate.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This site covers how to create both front and back post double crochet stitches.  
 baseurl: "post_crochetstitch" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "github.com/maeganbrown" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  maeganbrown
 
